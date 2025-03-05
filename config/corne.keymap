@@ -41,7 +41,7 @@
 // | CTRL | \/| |     |     |     |     |   |     |     |  ,  |  .  |  /  | ENTER|
 //                    | GUI |     | SPC |   |SHIFT|     | ALT |
                         bindings = <
-   &kp TAB   &kp GRAVE &none  &none  &none  &none    &none  &kp MINUS &kp PLUS  &kp LBKT &kp RBKT &kp BSPC
+   &kp TAB   &kp GRAVE &none  &none  &none  &none    &none  &kp MINUS &kp EQUAL &kp LBKT &kp RBKT &kp BSPC
    &kp ESC   &kp N1    &kp N2 &kp N3 &kp N4 &kp N5   &kp N6 &kp N7    &kp N8    &kp N9   &kp N0   &kp SQT
    &kp LCTRL &kp NUBS  &none  &none  &none  &none    &none  &none     &kp COMMA &kp DOT  &kp FSLH &kp ENTER
                         &kp LGUI &trans &kp SPACE    &kp RSHIFT &trans &kp RALT
