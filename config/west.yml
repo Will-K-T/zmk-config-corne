@@ -3,7 +3,7 @@ manifest:
     - name: zmkfirmware
       url-base: https://github.com/zmkfirmware
     - name: qwerty22121998
-      url-base: github.com/qwerty22121998
+      url-base: https://github.com/qwerty22121998
   projects:
     - name: zmk
       remote: zmkfirmware
